@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Rakesh<br>🎓 BSc in Computer Science | 💻 Aspiring Web Developer<br>🌱 Currently learning full-stack development (MERN) via freeCodeCamp<br>📌 Passionate about building responsive websites & solving real-world problems<br>📚 Always curious, always coding.
+# 👋 Hi, I'm Rakesh
+🎓 BSc in Computer Science | 💻 Aspiring Web Developer<br>🌱 Currently learning full-stack development (MERN) via freeCodeCamp<br>📌 Passionate about building responsive websites & solving real-world problems<br>📚 Always curious, always coding.
 
 
 ## 🌐 Socials:
