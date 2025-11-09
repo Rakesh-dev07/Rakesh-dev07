@@ -18,9 +18,38 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rakesh-dev07&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rakesh-dev07&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-dev07&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/Rakesh-dev07">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Rakesh-dev07&show_icons=true&theme=radical&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866" 
+      alt="Rakesh's GitHub stats" 
+      height="180"
+    />
+  </a>
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Rakesh-dev07">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-dev07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
+      alt="Top Languages"
+      height="180"
+    />
+  </a>
+
+  <!-- GitHub Streak Stats -->
+
+  <a href="https://github.com/Rakesh-dev07">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-dev07&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=F8D866&sideLabels=58A6FF" 
+      alt="GitHub Streak Stats"
+      height="180"
+    />
+  </a>
+  
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
