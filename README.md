@@ -40,15 +40,9 @@
   </a>
 
   <!-- GitHub Streak Stats -->
-
   <a href="https://github.com/Rakesh-dev07">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-dev07&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=F8D866&sideLabels=58A6FF" 
-      alt="GitHub Streak Stats"
-      height="180"
-    />
-  </a>
-  
+  <img src="https://streak-stats.demolab.com?user=Rakesh-dev07&theme=radical&hide_border=true&fire=FEC827&ring=58A6FF&stroke=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&sideLabels=58A6FF&background=0D1117" alt="GitHub Streak" height="200" /></a>
+
 </div>
 
 ### ✍️ Random Dev Quote
