@@ -39,10 +39,12 @@
     />
   </a>
 
-  <!-- GitHub Streak Stats -->
+  
+  <!-- GitHub Streak Stats
   <a href="https://github.com/Rakesh-dev07">
-  <img src="https://streak-stats.demolab.com?user=Rakesh-dev07&theme=radical&hide_border=true&fire=FEC827&ring=58A6FF&stroke=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&sideLabels=58A6FF&background=0D1117" alt="GitHub Streak" height="200" /></a>
-
+   <img
+     src="https://streak-stats.demolab.com?user=Rakesh-dev07&theme=radical&hide_border=true&fire=FEC827&ring=58A6FF&stroke=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&sideLabels=58A6FF&background=0D1117" alt="GitHub Streak" height="180" /></a>
+   -->
 </div>
 
 ### ✍️ Random Dev Quote
