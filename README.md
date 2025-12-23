@@ -1,3 +1,6 @@
+![👋 Hi, my name is Rakesh](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=Rakesh-dev07&label=Profile%20views&color=0e75b6&style=flat) -->
 # 👋 Hi, I'm Rakesh
 🎓 BSc in Computer Science | 💻 Aspiring Web Developer<br>🌱 Currently learning full-stack development (MERN) via freeCodeCamp<br>📌 Passionate about building responsive websites & solving real-world problems<br>📚 Always curious, always coding.
 
